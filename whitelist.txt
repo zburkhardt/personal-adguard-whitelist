@@ -1,0 +1,10 @@
+@@||goguardian.com^
+
+# Walmart/Target ads on Slickdeals (Ex: walmart.goto.com)
+@@||goto.*.com^
+
+# GasBuddy
+@@||device-api.urbanairship.com^
+
+# Sites that have go.*.com (Ex: go.androidpolice.com)
+@@||go.*.com^
