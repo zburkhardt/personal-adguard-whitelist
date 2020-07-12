@@ -8,3 +8,6 @@
 
 # Sites that have go.*.com (Ex: go.androidpolice.com)
 @@||go.*.com^
+
+# Slickdeals for Dockers (Ex. dockers.pxf.io)
+@@||pxf.io
