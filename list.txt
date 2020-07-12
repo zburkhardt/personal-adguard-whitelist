@@ -11,3 +11,4 @@
 
 # Slickdeals for Dockers (Ex. dockers.pxf.io)
 @@||pxf.io
+@@||*.pxf.io
