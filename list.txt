@@ -12,3 +12,9 @@
 # Slickdeals for Dockers (Ex. dockers.pxf.io)
 @@||pxf.io
 @@||*.pxf.io
+
+# Snapchat Ads
+@@||snapads.com^
+@@||*.snapads.com^
+@@||analytics.snapchat.com^
+@@||app-analytics.snapchat.com^
