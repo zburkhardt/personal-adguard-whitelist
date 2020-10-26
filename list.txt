@@ -5,6 +5,10 @@
 @@||*.laptoplookout.com^
 @@||pusher.com^
 @@||*.pusher.com^
+@@kinesis.us-west-2.amazonaws.com
+@@hosted-extensions.s3.us-west-2.amazonaws.com
+@@x3-report-uploads.s3.us-west-2.amazonaws.com
+@@beacon-report-uploads-prod.s3.us-west-2.amazonaws.com
 
 # Walmart/Target ads on Slickdeals (Ex: walmart.goto.com)
 @@||goto.*.com^
