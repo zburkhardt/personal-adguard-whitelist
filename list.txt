@@ -1,4 +1,10 @@
+# K-12 Chromebook services
 @@||goguardian.com^
+@@||*.goguardian.com^
+@@||laptoplookout.com^
+@@||*.laptoplookout.com^
+@@||pusher.com^
+@@||*.pusher.com^
 
 # Walmart/Target ads on Slickdeals (Ex: walmart.goto.com)
 @@||goto.*.com^
