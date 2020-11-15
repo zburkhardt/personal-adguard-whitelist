@@ -28,3 +28,10 @@
 @@||*.snapads.com^
 @@||analytics.snapchat.com^
 @@||app-analytics.snapchat.com^
+
+# iFunny
+@@||imageproxy.ifunny.co^
+@@||img.ifunny.co^
+
+# Google Ad Services
+@@||googleadservices.com^
